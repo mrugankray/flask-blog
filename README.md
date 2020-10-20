@@ -22,8 +22,8 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Python" width="26px" src="https://www.pinclipart.com/picdir/middle/55-552426_python-sticker-png-clipart.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="flask" width="26px" src="https://www.pngfind.com/pngs/m/62-626422_python-logo-clipart-drawing-flask-hd-png-download.png" />
-<img align="left" alt="Django" width="26px" src="https://toppng.com/uploads/preview/django-python-logo-apress-the-definitive-guide-to-django-web-development-11562875828mqany5qert.png" />
+<img align="left" alt="flask" width="20px" src="https://www.pngfind.com/pngs/m/62-626422_python-logo-clipart-drawing-flask-hd-png-download.png" />
+<img align="left" alt="Django" width="30px" src="https://toppng.com/uploads/preview/django-python-logo-apress-the-definitive-guide-to-django-web-development-11562875828mqany5qert.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
