@@ -1,4 +1,4 @@
-### Hi there, I'm Mrugank, [Flaks Blog Website][website] 👋
+### Hi there, I'm Mrugank, [Flask Blog Website][website] 👋
 
 ## I'm a Developer and Freelancer!!
 
