@@ -15,4 +15,4 @@ def error_403(error):
 
 @errors.app_errorhandler(500)
 def error_500(error):
-    return render_template('errors/500.html', status_code=50), 500
+    return render_template('errors/500.html', status_code=500), 500
