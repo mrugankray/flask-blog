@@ -37,8 +37,6 @@
 
 <img align="left" alt="Mrugank's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mrugankray&show_icons=true&hide_border=true&hide=contribs,issues,prs" />
 
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrugankray)](https://github.com/mrugankray/github-readme-stats)
 
 
