@@ -35,13 +35,6 @@
 
 ---
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 <img align="left" alt="Mrugank's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mrugankray&show_icons=true&hide_border=true&hide=contribs,issues" />
 
 ---
