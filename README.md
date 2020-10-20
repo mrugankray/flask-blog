@@ -35,10 +35,6 @@
 
 ---
 
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
