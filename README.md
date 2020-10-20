@@ -30,6 +30,25 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+### Run Locally ###
+- Clone this repository locally. In a terminal, run the following command:
+
+```
+$ git clone https://github.com/mrugankray/flask-blog
+```
+- To run the Application, In a terminal, run the following command:
+
+```
+python3 run.py
+```
+
+### Development ###
+- To run the Flask Blog app in debug mode, edit `config.py` and pass `debug=True` in `app.run()`
+
+### Configure environment variables ### 
+- Three environment variables are used in this App i.e. `SECRET_KEY`, `EMAIL_USER` and `EMAIL_PASS`
+- To use your own variables, Please make changes in the flaskblog/config.py.
+
 <br />
 <br />
 
