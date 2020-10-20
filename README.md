@@ -52,7 +52,6 @@ python3 run.py
 - To use your own variables, Please make changes in the `flaskblog/config.py`.
 
 <br />
-<br />
 
 ---
 
